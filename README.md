@@ -1,6 +1,6 @@
 # Hi, I'm SHOLA GABRIEL👋
 
-### 🛡️ Cybersecurity Student | DevSecOps Engineer | Tech Entrepreneur
+###  DevSecOps Engineer | Cloud Architect | Tech Entrepreneur
 
 I am a Cybersecurity student focused on building automated defense systems and securing cloud infrastructures. I bridge the gap between development and security through automated CI/CD pipelines.
 
